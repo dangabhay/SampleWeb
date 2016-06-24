@@ -1,0 +1,6 @@
+Instructions for deploying this application
+
+1. Clone the repository.
+2. Build the package using the command "ant".
+3. Copy the generated WAR file in the build/war folder to the webapps/ folder within tomcat installation.
+4. Start the tomcat server using startup.sh.
